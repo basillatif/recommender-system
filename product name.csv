@@ -1,0 +1,62 @@
+﻿product,category name
+1,Apparel
+2,Shoes
+3,Accessories
+4,Jewelry & Watches
+5,Other Apparel Items
+6,Home Furniture
+7,Home Appliances
+8,Tools & Equipment
+9,Kitchen & Dining
+10,Bed & Bath
+11,Garden & Patio
+12,Pet Supplies
+13,Food & Beverage
+14,Automotive Accessories
+15,Sport & Fitness
+16,Health & Beauty
+17,Art & Collectibles
+18,Tobacco Products
+19,Baby Supplies
+20,Other Home & Living Items
+21,Books & Magazines
+22,Music
+23,Movies & Videos
+24,Other Bmv
+25,Desktop Computers
+26,Laptop Computers
+27,"Handhelds, Pdas & Portable Devices"
+28,"Printers, Monitors & Peripherals"
+29,Computer Software (X Pc Games)
+30,Other Computer Supplies
+31,Audio & Video Equipment
+32,Cameras & Equipment
+33,Mobile Phones & Plans
+34,Other Electronics & Supplies
+35,Pc Video Games
+36,Console Video Games
+37,Video Game Consoles & Accessories
+38,Business Machines
+39,Office Furniture
+40,Office Supplies
+41,Movie Tickets
+42,Event Tickets
+43,Air Travel
+44,Hotel Reservations
+45,Car Rental
+46,Travel Packages
+47,Other Travel
+48,Online Content Sales
+49,Online Service Subscriptions
+50,Personals & Dating
+51,Photo Printing Services
+52,Shipping Services
+53,Other Services
+54,Toys & Games (X Video Games)
+55,"Arts, Crafts & Party Supplies"
+56,Other Toy & Game Items
+57,Flowers
+58,Greetings
+59,Gift Certificates & Coupons
+60,Other Flower & Gift Items
+99,Unclassified
